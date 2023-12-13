@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ShowCase</id>
+    <version>1.0.0</version>
+    <authors>ShowCase</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="81ceb5c23cc06c692216164c73530b92a454efcc" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="StringLibrary" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Administrator\Desktop\2023 Fall\COMP 367-DevOps Implementation - 001\LAB4\nza\ShowCase\bin\Debug\net6.0\ShowCase.runtimeconfig.json" target="lib\net6.0\ShowCase.runtimeconfig.json" />
+    <file src="C:\Users\Administrator\Desktop\2023 Fall\COMP 367-DevOps Implementation - 001\LAB4\nza\ShowCase\bin\Debug\net6.0\ShowCase.dll" target="lib\net6.0\ShowCase.dll" />
+  </files>
+</package>
